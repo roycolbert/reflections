@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+You add the git hidden folder that is used to track changes and you also need to do a commit so git will start to track changes
