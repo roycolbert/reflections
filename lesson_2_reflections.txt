@@ -17,3 +17,7 @@ It makes it easier to add new features or to modify the code without changing th
 How do the diagrams help you visualize the branch structure?
 
 They show how to reach the commits in the branches and show how the branches relate to each other so that you can get to the commit that you want.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+You have access to all the commits from on branch and the diagram makes it easier to understand what is happening.
