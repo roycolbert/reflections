@@ -21,3 +21,7 @@ They show how to reach the commits in the branches and show how the branches rel
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 You have access to all the commits from on branch and the diagram makes it easier to understand what is happening.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+When automatic merging works it can save a lot of time. Always doing manual merges will waste time.
