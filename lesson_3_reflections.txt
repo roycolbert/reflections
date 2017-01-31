@@ -6,3 +6,7 @@ Why might you want to always pull changes manually rather than having Git automa
 
 If you have a remote repository you may be working with others and code pushed there my not be ready for consumption.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+I would use a fork when I could not edit or did not want to change a repository. I would clone a repository if I had intentions to make make changes to the code in the repository. I would use a branch as a way to experiment with the code with the intention of merging back into the master.
+
