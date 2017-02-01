@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 
 I would use a fork when I could not edit or did not want to change a repository. I would clone a repository if I had intentions to make make changes to the code in the repository. I would use a branch as a way to experiment with the code with the intention of merging back into the master.
 
+What is the benefit of having a copy of the last known state of the remote stored locally? 
+
+You can work offline.
