@@ -17,3 +17,7 @@ You can work offline.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder? 
 
 You could use Google docs. It would be easier to use for a few docs that are simple and not directly related. But Git would be better for iterative complex efforts that span over a period of time. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you want someone to review your code before it is added to the master branch. It can help catch errors. If you merge directly into the master branch it is quicker but it could be more error prone.
